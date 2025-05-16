@@ -1,4 +1,4 @@
-package com.devsuperior.dscatalog.resource;
+package com.devsuperior.dscatalog.resources;
 
 import java.net.URI;
 
