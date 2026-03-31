@@ -4,6 +4,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)
 
 # DSCatalog - DevSuperior
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jacques-Trevia/dscatalog-devsuperior/blob/main/LICENSE)
 
 **DSCatalog** é um projeto desenvolvido no curso **Java Spring Professional** da **DevSuperior**, focado no backend com **Spring Boot** e conceitos avançados como **OAuth2**, **JWT**, **JPA/Hibernate** e **APIs REST**.
 
